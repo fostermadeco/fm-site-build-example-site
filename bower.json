@@ -1,0 +1,22 @@
+{
+  "name": "fm-site-build-example-site",
+  "authors": [
+    "hello@visualchefs.com"
+  ],
+  "description": "Example site for fm-site-build",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
