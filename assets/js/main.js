@@ -14,7 +14,7 @@ $(function(){
 		console = { log: function() { } };
 	}
 	
-	console.log("guntersxxx");
+	console.log("gunters");
 	var $ = jQuery;
 	
 	var SCRIPTS = {
