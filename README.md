@@ -8,6 +8,12 @@ Example site for [FM Site Build](https://github.com/fostermadeco/fm-site-build) 
 * Edit fm-site-build.options.js to fit site specific needs.
 * Run 'bower install' and 'npm install'
 
+Note if you clone repo be sure to do this to clear out git:
+```
+rm -rf .git && git init
+git commit -m "init with fm site build"
+```
+
 ## Usage
 
 Run gulp tasks:
