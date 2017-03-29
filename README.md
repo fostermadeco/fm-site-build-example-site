@@ -1,9 +1,6 @@
 # Foster Made Example Site - FM Site Build
 
-Example site for FM Site Build implementation with npm package:
-[https://github.com/fostermadeco/fm-site-build](https://github.com/fostermadeco/fm-site-build)
-
-[npm package](https://www.npmjs.com/package/fm-site-build)
+Example site for [FM Site Build](https://github.com/fostermadeco/fm-site-build) implementation with [npm package](https://www.npmjs.com/package/fm-site-build).
 
 ## New Site Setup
 
@@ -21,7 +18,7 @@ gulp watch
 gulp dist
 ```
 
-## Sample directory structure sample site usage
+## File explanation
 
 ```
 .
