@@ -7,6 +7,6 @@
     "fm-site-build": "~0.0.23",
     "gulp": "^3.9.1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Foster Made",
+  "license": "MIT"
 }
