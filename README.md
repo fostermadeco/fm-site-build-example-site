@@ -8,6 +8,8 @@ Example site for [FM Site Build](https://github.com/fostermadeco/fm-site-build) 
 * Edit fm-site-build.options.js to fit site specific needs.
 * Run 'bower install' and 'npm install'
 
+## Usage
+
 Run gulp tasks:
 
 ```
