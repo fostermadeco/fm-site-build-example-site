@@ -49,3 +49,7 @@ gulp dist
     index.html                     # <- Sample index template
     package.json                   # <- npm manifest
 ```
+
+## Troubleshooting
+
+If things aren't working, you might need to just remove everything in the node_modules folder and run 'npm install' again. Things get tangled over time and there is no fix for it except reinstalling the packages. 
