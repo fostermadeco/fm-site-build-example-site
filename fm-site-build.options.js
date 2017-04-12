@@ -12,7 +12,10 @@ module.exports = function() {
         templatesDir: assetsDir,
         // name of file(s) that have references to css and js compiled files, include dir
         // e.g.: index.html or can be array: ['_html/default.html', 'index.html']
-        indexFiles: [ 'index.html', '_html/footer.html' ],
+        indexFiles: [
+            '_html/inc/header.php',
+            '_html/inc/footer.php'
+        ],
         // dir for main sass file and partials
         srcSass: srcDir + 'scss/',
         // dir for js files

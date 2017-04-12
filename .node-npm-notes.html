@@ -1,0 +1,18 @@
+- Starting fresh:
+
+1. npm install fm-site-build --save-dev
+2. npm install
+3. bower install
+4. Update dev URL in fm-site-build.options.js:
+
+options.localUrl = 'XXXXXX.dev';
+
+
+- To install new packages:
+
+1. bower install --save whatevername
+2. add necessary bowerFiles to fm-site-build.options.js
+3. run: gulp dev
+4. re-start: gulp watch
+
+
