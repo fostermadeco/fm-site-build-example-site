@@ -51,6 +51,11 @@ module.exports = function() {
         ]
     };
 
+    // css imports need to come before any styles
+    options.cssUrlImports = [
+        ''
+    ];
+    
     // Configurables for modernizr, see more https://modernizr.com/download
     options.modernizr = {
         options: [
