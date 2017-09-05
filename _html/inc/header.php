@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">        
-        <title>Page Title</title>
+        <title><?php echo $title ?>Site Title</title>
         <meta name="description" content="This is the default description.">
         <meta name="keywords" content="these, are, the, default, keywords">
         <meta property="og:url" content="http://url.dev">
