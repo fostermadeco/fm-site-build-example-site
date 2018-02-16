@@ -3,7 +3,7 @@
 
 // OPEN .PDF'S AND EXTERNAL LINKS IN A NEW WINDOW
 function buildExternal() {
-	$('a[href^="http:"], a[href^="https:"]').not('[href*="'+document.domain+'"]').attr('target','_blank');
+	$('a[href^="http:"], a[href^="https:"]').not('[href*="'+document.domain+'"]').attr('target','_blank').attr('rel', 'noopener noreferrer');
 	$('a[href$=".pdf"]').attr('target', '_blank');
 }
 
