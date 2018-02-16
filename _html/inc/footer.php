@@ -6,9 +6,9 @@
     <script src="/assets/dev/main.js"></script>
     <!-- production files -->
     <!--
-    <script src="/assets/dist/modernizr-min-a336922e4a.js"></script>
-    <script src="/assets/dist/main-min-b9c438357d.js"></script>
-    <noscript id="deferred-styles"><link rel="stylesheet" href="/assets/dist/main-min-3467c58b0c.css"></noscript>
+    <script src="/assets/dist/modernizr-min-3dfc54f5db.js"></script>
+    <script src="/assets/dist/main-min-cd5e83c2be.js"></script>
+    <noscript id="deferred-styles"><link rel="stylesheet" href="/assets/dist/main-min-1b5dfee136.css"></noscript>
     <script>
         var loadDeferredStyles = function() {
             var addStylesNode = document.getElementById("deferred-styles");

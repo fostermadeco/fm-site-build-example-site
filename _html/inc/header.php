@@ -26,7 +26,7 @@
         <link rel="stylesheet" href="/assets/dev/vendor.css">
         <link rel="stylesheet" href="/assets/dev/app.css">
         <!-- production files -->
-        <!--[if lte IE 9]><link rel="stylesheet" href="/assets/dist/main-min-3467c58b0c.css"><![endif]-->
+        <!--[if lte IE 9]><link rel="stylesheet" href="/assets/dist/main-min-1b5dfee136.css"><![endif]-->
     </head>
 
     <body>
